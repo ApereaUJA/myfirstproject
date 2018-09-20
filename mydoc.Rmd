@@ -1,0 +1,12 @@
+---
+title: "mynewproject"
+author: "Antonio Perea"
+date: "20 de septiembre de 2018"
+output: html_document
+---
+
+I am going to make a plot
+```{r}
+plot(iris$Sepal.Length, Iris$Sepal.width)
+```
+
